@@ -1,6 +1,5 @@
 # Application Streamlit : prédiction de la souscription à un dépôt à terme (Bank Marketing)
 import html
-
 import joblib
 import numpy as np
 import pandas as pd
